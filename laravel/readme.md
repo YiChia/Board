@@ -1,3 +1,4 @@
+<p align="center">Laravel5.4 Ubuntu16.04 簡易留言版 2017/06/24</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
